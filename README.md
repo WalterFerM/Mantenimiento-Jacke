@@ -1,2 +1,23 @@
-# Mantenimiento-Jacke
-Este Repositorio es un proyecto que busca difundir información educativa en un formato diferente, de manera que genere debate técnico y profundizar en detalles técnicos.  
+# Tecnico en Sistemas
+## Proyect1
+
+### Contenido.
+* Manteniemiento Hardware Desktop.
+* Mantenimiento Hardware Laptop.
+* Mantenimiento All-in-one.
+* Software.
+  * Virtualización.
+  * Ubuntu.
+  * Windows.
+  * Mac.
+  * Docker.
+ 
+### Fuentes
+
+*
+
+
+Elaborado por *Walter Meneses*
+
+
+
