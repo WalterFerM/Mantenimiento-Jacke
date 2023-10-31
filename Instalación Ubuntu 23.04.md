@@ -1,4 +1,4 @@
-# Ubuntu 23.04
-## Sobre VirtualBox
+# Ubuntu 22.04
+## Maquina virtual sobre virtualbox
 
 *Walter Meneses*
