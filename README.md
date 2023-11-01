@@ -11,3 +11,8 @@
   * Windows.
   * Mac.
   * Docker.
+
+## Software
+
+* Ubuntu 23.04, Gnu Linux 6.2.
+  * [Instalación 📥](/InstalaciónUbuntu.md) 
