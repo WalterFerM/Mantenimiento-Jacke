@@ -5,7 +5,7 @@ En este entorno relalizaremos instalaciones en diferentes sistemas operativos
 * Mint
 * Chrome OS
 * Ubuntu 22.04 LTS
-* Ubuntu 23.04 
+* [Ubuntu 23.04 📥](/InstalaciónUbuntu.md) 
 * Windows 10
 * Windows 11
 
