@@ -6,7 +6,7 @@
 * Mantenimiento Hardware Laptop.
 * Mantenimiento All-in-one.
 * Software.
-  * Virtualización.
+  * [Virtualización 🚸](/VirtualBox.md)
   * Ubuntu.
   * Windows.
   * Mac.
