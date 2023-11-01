@@ -1,7 +1,7 @@
 # Tecnico en Sistemas
 ## Proyect1
 
-### Contenido.
+### CONTENIDO.
 * Manteniemiento Hardware Desktop.
 * Mantenimiento Hardware Laptop.
 * Mantenimiento All-in-one.
@@ -11,13 +11,3 @@
   * Windows.
   * Mac.
   * Docker.
- 
-### Fuentes
-
-*
-
-
-Elaborado por *Walter Meneses*
-
-
-
