@@ -2,9 +2,11 @@
 
 En este entorno relalizaremos instalaciones en diferentes sistemas operativos 
 
+<!--Aqui los enlaces a los documentos principales-->
+
 * Mint
 * Chrome OS
-* Ubuntu 22.04 LTS
+* [Ubuntu 22.04 LTS 📥](/InstalaciónUbuntu22.04.md)
 * [Ubuntu 23.04 📥](/InstalaciónUbuntu.md) 
 * Windows 10
 * Windows 11
@@ -65,9 +67,7 @@ Es el equivalente a encender un equipo virtual, se iniciara un hypervisor en el 
 Con VirtualBox podemos crear maquinas virtuales para hacer practicas de instalación de software, tambien para probar diferentes modificaciones que requieran un Escenario especifico y controlado y no poner en riesgo nuestra propia maquina.
 
 
-
-
-
+<!--Imagenes del documento-->
 
 
 [img13]: /assets/Captura%20de%20pantalla%20(14).png
