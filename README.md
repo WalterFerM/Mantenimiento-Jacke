@@ -18,3 +18,5 @@
   * [Instalación 📥](/InstalaciónUbuntu.md)
 * Ubuntu 22.04 LTS, Gnu Linux 6.2.
   * [Instalación 📥]( /InstalaciónUbuntu22.04.md)
+* Windows 10 Pro, Microsoft
+  * [Instalación 📥](/InstalaciónWindows10.md)
